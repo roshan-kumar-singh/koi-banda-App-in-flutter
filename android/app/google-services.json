@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581449238715",
+    "project_id": "signin-example-a0042",
+    "storage_bucket": "signin-example-a0042.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581449238715:android:65c54dcdf8a2c8a152019e",
+        "android_client_info": {
+          "package_name": "com.example.koibanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581449238715-p5ucotp18a8e1mhdvtlv2mrfugq0vvqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmlZ8h_LZ9QrtWCXor5DwdVJrSBDQ6sM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581449238715-p5ucotp18a8e1mhdvtlv2mrfugq0vvqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
